@@ -1,1 +1,1 @@
-Periodically ship most recent presence activities(presence, offline) to presence servers. But before this, send each presence activity(sub, offline) to presence subscribers at once.
+KYC Program for 3 Level Verification works with R345 Exchange and code has been updated blockchainhelp.eu
